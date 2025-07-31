@@ -7,13 +7,6 @@
 - 💬 Contato: matheuscostawork14@gmail.com
 
 ---
-<p align="center">
-  <a href="https://github.com/MatheusOliveiraCosta">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusOliveiraCosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Linguagens mais usadas"/>
-  </a>
-</p>
-
----
 ## 🛠️ Ferramentas e Tecnologias
 
 <div style="display: inline_block"><br>
@@ -26,9 +19,12 @@
 </div>
 
 ---
-## 📊 Estatísticas
+## 📊 Estatísticas & Linguagens
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusOliveiraCosta&show_icons=true&theme=dracula"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOliveiraCosta&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
 </div>
 
 ---
