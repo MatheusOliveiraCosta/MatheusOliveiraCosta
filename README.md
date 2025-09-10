@@ -4,8 +4,6 @@
 - 🔭 Faço projetos projetos pessoais relacionados ou não com a faculdade
 - 🌱 Estudando Springboot
 - 👯 Busco ganhar experiência na área de TI profissionalmente
-- 💬 Contato: matheuscostawork14@gmail.com
-
 ---
 ## 🛠️ Ferramentas e Tecnologias
 
