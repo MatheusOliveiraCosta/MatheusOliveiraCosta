@@ -25,7 +25,7 @@
 
 ## 💻 Projetos em Destaque
 
-* **[Organizer-Java-Backend](#)**: Um sistema robusto de gerenciamento de tarefas. O projeto integra um back-end estruturado em Java e Spring Boot com uma interface front-end construída em Python (CustomTkinter), utilizando MySQL para persistência de dados.
+* **[Organizer-Java-Backend](#)**: Um sistema robusto de gerenciamento de tarefas. O projeto integra um back-end estruturado em Java e Spring Boot com uma interface front-end construída com React.js, utilizando MySQL para persistência de dados.
 * **[E-Logic Car](#)**: Uma interface web conceitual para uma concessionária de carros elétricos, desenvolvida para aprimorar habilidades práticas de front-end utilizando HTML, CSS e JavaScript.
 
 ---
