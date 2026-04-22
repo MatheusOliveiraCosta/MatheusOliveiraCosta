@@ -7,7 +7,7 @@
 
 ---
 
-## 🛠️ Ferramentas e Tecnologias
+## 🛠️ Ferramentas e Tecnologias que uso atualmente
 
 <table>
   <tr>
@@ -30,12 +30,6 @@
 
 * **[Organizer-Java-Backend](#)**: Um sistema robusto de gerenciamento de tarefas. O projeto integra um back-end estruturado em Java e Spring Boot com uma interface front-end construída com React.js, utilizando MySQL para persistência de dados.
 * **[E-Logic Car](#)**: Uma interface web conceitual para uma concessionária de carros elétricos, desenvolvida para aprimorar habilidades práticas de front-end utilizando HTML, CSS e JavaScript.
-
----
-
-## 🌟 Atividades Extras
-
-* **Projeto de Extensão Portas Abertas:** Atuação voluntária na gestão de mídias digitais e criação de comunicação visual para o Instituto Girassol, desenvolvendo habilidades de organização, trabalho em equipe e planejamento estratégico.
 
 ---
 
