@@ -1,5 +1,12 @@
-## Olá, sou Matheus Oliveira Costa 👋
+# Olá, sou Matheus Oliveira Costa 👋
 
+---
+
+<img src="./profile-3d-contrib/profile-night-green.svg" alt="Meu gráfico do GitHub" />
+
+---
+
+## Sobre mim
 🎓 Estudante do 5º período de Engenharia de Software na UTFPR (Campus Cornélio Procópio).
 🚀 Desenvolvendo projetos back-end e explorando a integração de sistemas.
 🌱 Aprofundando conhecimentos em Java (Spring Boot) para back-end e Python para Data Science/Machine Learning.
@@ -25,12 +32,6 @@
 
 * **[Organizer-Java-Backend](#)**: Um sistema robusto de gerenciamento de tarefas. O projeto integra um back-end estruturado em Java e Spring Boot com uma interface front-end construída com React.js, utilizando MySQL para persistência de dados.
 * **[E-Logic Car](#)**: Uma interface web conceitual para uma concessionária de carros elétricos, desenvolvida para aprimorar habilidades práticas de front-end utilizando HTML, CSS e JavaScript.
-
----
-
-## 📊 Estatísticas & Linguagens
-
-<img src="./profile-3d-contrib/profile-night-green.svg" alt="Meu gráfico do GitHub" />
 
 ---
 
