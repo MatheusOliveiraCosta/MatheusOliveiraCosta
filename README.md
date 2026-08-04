@@ -7,7 +7,7 @@
 ---
 
 ## Sobre mim
-🎓 Estudante do 5º período de Engenharia de Software na UTFPR (Campus Cornélio Procópio).
+🎓 Estudante do 6º período de Engenharia de Software na UTFPR (Campus Cornélio Procópio).
 🚀 Desenvolvendo projetos back-end e explorando a integração de sistemas.
 🌱 Aprofundando conhecimentos em Java (Spring Boot) para back-end e Python para Data Science/Machine Learning.
 👯 Buscando minha primeira oportunidade de estágio para gerar valor e crescer na área de TI.
